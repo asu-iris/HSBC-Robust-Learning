@@ -1,0 +1,5 @@
+python ablation/Walker_Ablation.py --dir Data/Ablation/batchsize/20/run_0 --device 2 --err 4  --rounds 61 --opt Adam --dense True  --alg_error 4 --batchsize 20 --model_num 16 --freq 3
+python ablation/Walker_Ablation.py --dir Data/Ablation/batchsize/20/run_1 --device 2 --err 4  --rounds 61 --opt Adam --dense True  --alg_error 4 --batchsize 20 --model_num 16 --freq 3
+python ablation/Walker_Ablation.py --dir Data/Ablation/batchsize/20/run_2 --device 2 --err 4  --rounds 61 --opt Adam --dense True  --alg_error 4 --batchsize 20 --model_num 16 --freq 3
+python ablation/Walker_Ablation.py --dir Data/Ablation/batchsize/20/run_3 --device 2 --err 4  --rounds 61 --opt Adam --dense True  --alg_error 4 --batchsize 20 --model_num 16 --freq 3
+python ablation/Walker_Ablation.py --dir Data/Ablation/batchsize/20/run_4 --device 2 --err 4  --rounds 61 --opt Adam --dense True  --alg_error 4 --batchsize 20 --model_num 16 --freq 3

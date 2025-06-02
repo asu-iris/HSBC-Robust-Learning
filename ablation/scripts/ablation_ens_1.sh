@@ -1,0 +1,5 @@
+python test_walker/Walker_Robust_Align.py  --dir Data/Ablation/ens_size/32/run_0 --device 3 --err 2 --rounds 121 --opt Adam --dense True --model_num 32 --freq 5
+python test_walker/Walker_Robust_Align.py  --dir Data/Ablation/ens_size/32/run_1 --device 3 --err 2 --rounds 121 --opt Adam --dense True --model_num 32 --freq 5
+python test_walker/Walker_Robust_Align.py  --dir Data/Ablation/ens_size/32/run_2 --device 3 --err 2 --rounds 121 --opt Adam --dense True --model_num 32 --freq 5
+python test_walker/Walker_Robust_Align.py  --dir Data/Ablation/ens_size/32/run_3 --device 3 --err 2 --rounds 121 --opt Adam --dense True --model_num 32 --freq 5
+python test_walker/Walker_Robust_Align.py  --dir Data/Ablation/ens_size/32/run_4 --device 3 --err 2 --rounds 121 --opt Adam --dense True --model_num 32 --freq 5

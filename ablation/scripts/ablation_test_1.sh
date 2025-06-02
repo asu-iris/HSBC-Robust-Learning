@@ -1,0 +1,3 @@
+python ablation/Walker_Ablation.py --dir Data/Ablation/disagreement/50/run_3 --device 1 --err 0 --rounds 81 --opt Adam --dense True --disagree_thresh 0.5 --alg_error 0 --model_num 16 --freq 5
+python ablation/Walker_Ablation.py --dir Data/Ablation/disagreement/50/run_4 --device 1 --err 0 --rounds 81 --opt Adam --dense True --disagree_thresh 0.5 --alg_error 0 --model_num 16 --freq 5
+#python ablation/Walker_Ablation.py --dir Data/Ablation/disagreement/50/run_2 --device 1 --err 0 --rounds 81 --opt Adam --dense True --disagree_thresh 0.5 --alg_error 0 --model_num 16 --freq 5

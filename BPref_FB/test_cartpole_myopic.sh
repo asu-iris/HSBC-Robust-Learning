@@ -1,0 +1,5 @@
+# python BPref_FB/Cartpole_myopic.py --dir Data/Cartpole_BPref/myopic/run_0 --device 0 --err 2 --disc 0.98 --rounds 51 --opt Adam --dense True --model_num 16 --freq 2
+# python BPref_FB/Cartpole_myopic.py --dir Data/Cartpole_BPref/myopic/run_1 --device 0 --err 2 --disc 0.98 --rounds 51 --opt Adam --dense True --model_num 16 --freq 2
+# python BPref_FB/Cartpole_myopic.py --dir Data/Cartpole_BPref/myopic/run_2 --device 0 --err 2 --disc 0.98 --rounds 51 --opt Adam --dense True --model_num 16 --freq 2
+python BPref_FB/Cartpole_myopic.py --dir Data/Cartpole_BPref/myopic/run_3 --device 0 --err 2 --disc 0.98 --rounds 51 --opt Adam --dense True --model_num 16 --freq 2
+python BPref_FB/Cartpole_myopic.py --dir Data/Cartpole_BPref/myopic/run_4 --device 0 --err 2 --disc 0.98 --rounds 51 --opt Adam --dense True --model_num 16 --freq 2
